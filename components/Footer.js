@@ -33,6 +33,9 @@ const Footer = () => {
     
                   {
                   // add your logo here: 
+                  <a href="https://sensative.com/">
+                    <img src="https://sensative.com/wp-content/uploads/2021/04/Sensative_logo_empowered-by-data.BRG_.png" width="180" alt="" />
+                  </a>
                   }
     
                 </div>
