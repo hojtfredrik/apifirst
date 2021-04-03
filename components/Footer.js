@@ -30,7 +30,9 @@ const Footer = () => {
                   <a href="https://proxify.io/">
                     <img src={ProxifyLogo} width="180" alt="" />
                   </a>
-    
+                  <a href="https://sensative.com/">
+                    <img height="60" width="160" src="https://sensative.com/wp-content/uploads/2019/12/Sensative_logo.BRG_.svg" alt="Sensative">
+                  </a>
                   {
                   // add your logo here: 
                   }
